@@ -14,7 +14,7 @@ This repository contains practical materials for understanding and applying supe
   - A **regression** sheet: Predicting the student’s final grade (continuous value)
 
 - `email_phishing_step.csv`  
-  → A **second dataset** for students to use **on their own** after class for practice and model testing.
+  → A **second dataset** for students to use **on their own** after class for practice and model testing. Adapted from https://www.kaggle.com/datasets/ethancratchley/email-phishing-dataset
 
 ---
 
